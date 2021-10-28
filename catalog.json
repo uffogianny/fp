@@ -2,26 +2,26 @@
   {
     "name": "A319",
     "description": "The A319 it's amember of the Airbus A320 family of short to medium range, narrow-body, comercial civil passenger Aircraft, with twin-engine jet airliners, manufactureted by Airbus. (Capacity: 110-160)",
-    "image_url": "https://github.com/uffogianny/fp/blob/main/a319_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a319_edited.jpg",
   },
   {
     "name": "A320 Neo",
     "description": "The A320neo family (neo for new engine option) is a development of the A320 family of narrow-body airlines produced by Airbus. (Capacity: 150-180 pax)",
-    "image_url": "https://github.com/uffogianny/fp/blob/main/a320neo_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a320neo_edited.jpg",
   },
    {
     "name": "A340",
     "description": "Is a twin-aisle passenger airliner, the first for long-range Airbus, powered by four turbofan jet engines with a similar A30 cockpit. (Capacity: 320-370 pax)",
-    "image_url": "https://github.com/uffogianny/fp/blob/main/a340_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a340_edited.jpg",
   },
   {
     "name": "A350",
     "description": "It's the first aircraft made by compose materials (carbon fibre rienforced polymer) with an extra wide body and only two Rolls-Royce enines. (Capacity: 300- 350)",
-    "image_url": "https://github.com/uffogianny/fp/blob/main/a350_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a350_edited.jpg",
   },
   {
     "name": "A380",
     "description": "It's the world largets commercial aircraft flying today. It has two full-length passengers levels. (Capacity: up to 853 pax)",
-    "image_url": "https://github.com/uffogianny/fp/blob/main/a380_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a380_edited.jpg",
   }
 ]
