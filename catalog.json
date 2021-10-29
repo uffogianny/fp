@@ -3,11 +3,11 @@
     "name": "A319",
     "description": "The A319 it's amember of the Airbus A320 family of short to medium range, narrow-body, comercial civil passenger Aircraft, with twin-engine jet airliners, manufactureted by Airbus. (Capacity: 110-160)",
     "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a319_edited.jpg"
-  },
+  }
   {
     "name": "A320 Neo",
     "description": "The A320neo family (neo for new engine option) is a development of the A320 family of narrow-body airlines produced by Airbus. (Capacity: 150-180 pax)",
-    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a320neo_edited.jpg",
+    "image_url": "https://raw.githubusercontent.com/uffogianny/fp/main/a320neo_edited.jpg"
   },
    {
     "name": "A340",
